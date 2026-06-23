@@ -16,7 +16,7 @@ class Solution
 {
 public:
     bool isSameTree(TreeNode *p, TreeNode *q)
-    {
+    {subtree-of-another-tree
         if (!p || !q)
             return p == q;
 
